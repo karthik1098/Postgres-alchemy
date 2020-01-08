@@ -1,2 +1,1 @@
-# Postgres-alchemy
-this code allows us to connect our postgres db with python with the help of SQLALCHEMY . i have used aws rds for my db server and pgadmin 4 as my workbench for postgres SQL
+this code allows us to connect our postgres db with python with the help of SQLALCHEMY . i have used aws rds for my db server and pgadmin 4 as my workbench for postgres SQL (note:-this code can only be used when you have a postgres database already created otherwise it wont run and in order to create a database in postgres install pgadmin and aznd connect the db server there and create a database) 
